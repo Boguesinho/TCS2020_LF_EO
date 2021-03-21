@@ -10,4 +10,8 @@ namespace Sistema_DirecciónGeneral.Interfaces
     {
         void Actualizar(int idDelegacion);
     }
+
+    // Probando cambios de la Mision
+    //Buendia
+    //Haciendo un commit
 }
