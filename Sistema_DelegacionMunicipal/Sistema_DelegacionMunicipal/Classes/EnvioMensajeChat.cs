@@ -7,6 +7,7 @@ namespace Sistema_DelegacionMunicipal.Classes
     {
 
         public string contenidoMensaje { get; set; }
+        public string variableNueva { get; set; }
         public string usuarioEmisor { get; set; }
         public string delegacionEmisor { get; set; }
         public bool isMensaje { get; set; }
