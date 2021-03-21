@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
 namespace Servidor
@@ -7,7 +7,8 @@ namespace Servidor
     {
 
         public string contenidoMensaje { get; set; }
-        public string usuarioEmisor { get; set; }
+        public string ElUsuario { get; set; }
+        public string elEmisor { get; set; }
         public string delegacionEmisor { get; set; }
         public bool isMensaje { get; set; }
         public bool isReporte { get; set; }
