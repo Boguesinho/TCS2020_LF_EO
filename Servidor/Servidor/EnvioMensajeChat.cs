@@ -7,7 +7,7 @@ namespace Servidor
     {
 
         public string contenidoMensaje { get; set; }
-        public string usuarioEmisor { get; set; }
+        public string elEmisor { get; set; }
         public string delegacionEmisor { get; set; }
         public bool isMensaje { get; set; }
         public bool isReporte { get; set; }
