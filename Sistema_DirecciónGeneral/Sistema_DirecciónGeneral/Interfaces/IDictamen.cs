@@ -9,5 +9,6 @@ namespace Sistema_DirecciónGeneral.Interfaces
     interface IDictamen
     {
         void Actualizar(int idDictamen);
+        //Comentando una prueba para merge
     }
 }
